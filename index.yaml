@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dinghy-ping:
+  - apiVersion: v1
+    appVersion: 0.1.1
+    created: "2019-09-05T10:59:06.265608-07:00"
+    description: A Helm chart for dinghy-ping
+    digest: 7b054e21e84c2bbe273cb0a9a3c8ac3610bd3d9127d21507d20f5bdc58055778
+    icon: https://user-images.githubusercontent.com/538171/64288240-732bef00-cf16-11e9-830a-7b08759bffad.jpg
+    name: dinghy-ping
+    urls:
+    - https://sepulworld.github.io/dinghy-ping-helm-chart/dinghy-ping-0.2.0.tgz
+    version: 0.2.0
+generated: "2019-09-05T10:59:06.265029-07:00"
