@@ -3,7 +3,7 @@ entries:
   dinghy-ping:
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2019-11-25T13:53:19.451953-08:00"
+    created: "2020-01-21T11:51:24.358291-08:00"
     description: A Helm chart for dinghy-ping
     digest: 2e0cebb2a219e3ecd814c76b888b59286fdc3e0e5c1419bac3b858968841fa3d
     icon: https://user-images.githubusercontent.com/538171/64288240-732bef00-cf16-11e9-830a-7b08759bffad.jpg
@@ -13,7 +13,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2019-11-25T13:53:19.450349-08:00"
+    created: "2020-01-21T11:51:24.357703-08:00"
     description: A Helm chart for dinghy-ping
     digest: 7b054e21e84c2bbe273cb0a9a3c8ac3610bd3d9127d21507d20f5bdc58055778
     icon: https://user-images.githubusercontent.com/538171/64288240-732bef00-cf16-11e9-830a-7b08759bffad.jpg
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://sepulworld.github.io/dinghy-ping-helm-chart/dinghy-ping-0.2.0.tgz
     version: 0.2.0
-generated: "2019-11-25T13:53:19.449417-08:00"
+generated: "2020-01-21T11:51:24.356663-08:00"
