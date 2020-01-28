@@ -13,6 +13,7 @@ metadata:
   annotations:
     kubernetes.io/ingress.class: nginx
     external-dns.alpha.kubernetes.io/hostname: {{ .Release.Name }}.{{- .Values.ingress.subdomain }}
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
 spec:
 {{- if .Values.ingress.tls }}
   tls:
